@@ -1,0 +1,255 @@
+TPersonalBudget
+v7
+r0
+t330644622.506252
+cCheck dependencies
+cProcessInfoPlistFile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/Info.plist PersonalBudget-Info.plist
+cCompileXIB /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib
+cProcessPCH /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch.gch PersonalBudget_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/main.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPad.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget normal i386
+cGenerateDSYMFile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app.dSYM /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget
+cTouch /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/PersonalBudget_Prefix.pch
+c000000004E0504F700000000000000C5
+t1308951799
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m
+c000000004E0504F7000000000000016E
+t1308951799
+s366
+i<UIKit/UIKit.h>
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app
+t1308951822
+s238
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app.dSYM
+t1308951822
+s102
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/Info.plist
+t1308951819
+s933
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/MainWindow_iPad.nib
+t1308951820
+s982
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/MainWindow_iPhone.nib
+t1308951820
+s984
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget
+t1308951822
+s17444
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PkgInfo
+t1308951819
+s8
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPad.o
+t1308951822
+s48432
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1308951822
+s49316
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/PersonalBudget.LinkFileList
+c000000004E05050B00000000000001D3
+t1308951819
+s467
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/main.o
+t1308951821
+s6340
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.h
+c000000004E0504F70000000000000148
+t1308951799
+s328
+i<UIKit/UIKit.h>
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m
+c000000004E0504F700000000000006AE
+t1308951799
+s1710
+i"AppDelegate_iPad.h"
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib
+c000000004E0504F700000000000036E2
+t1308951799
+s14050
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.h
+c000000004E0504F7000000000000014C
+t1308951799
+s332
+i<UIKit/UIKit.h>
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m
+c000000004E0504F700000000000009D3
+t1308951799
+s2515
+i"AppDelegate_iPhone.h"
+
+N/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib
+c000000004E0504F70000000000003911
+t1308951799
+s14609
+
+N/var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch.gch
+t1308951821
+s15453392
+
+NPersonalBudget-Info.plist
+c000000004E0504F70000000000000569
+t1308951799
+s1385
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330644619#330644619#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPad.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330644621.984599
+e330644622.101302
+r1
+xCompileC
+xbuild/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m330644621#330644622#0(0"0(0#0#73"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m8603166944#2204"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-generated-files.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-own-target-headers.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-all-target-headers.hmap -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-project-headers.hmap -F/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/include -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources/i386 -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources -include /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch -c /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/AppDelegate_iPad.m -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
+CCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330644621.842883
+e330644622.010419
+r1
+xCompileC
+xbuild/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m330644621#330644622#0(0"0(0#0#77"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m8603891968#2210"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-generated-files.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-own-target-headers.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-all-target-headers.hmap -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-project-headers.hmap -F/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/include -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources/i386 -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources -include /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch -c /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/AppDelegate_iPhone.m -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/main.o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330644621.841717
+e330644621.984495
+r1
+xCompileC
+xbuild/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/main.o
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m330644621#330644621#0(0"0(0#0#63"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m8603415360#2182"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-generated-files.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-own-target-headers.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-all-target-headers.hmap -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-project-headers.hmap -F/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/include -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources/i386 -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources -include /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch -c /Users/jrareas/Desenvolvimento/mac/PersonalBudget/Shared/main.m -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib
+s330644619.996404
+e330644620.397436
+r1
+xCompileXIB
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib330644619#330644620#0(0"0(0#0#74"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib8598852864#625"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/MainWindow_iPad.nib /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib
+s330644619.950383
+e330644620.439341
+r1
+xCompileXIB
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib330644619#330644620#0(0"0(0#0#78"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib8601169952#631"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/MainWindow_iPhone.nib /Users/jrareas/Desenvolvimento/mac/PersonalBudget/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app.dSYM /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget
+s330644622.402031
+e330644622.456398
+r1
+xGenerateDSYMFile
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app.dSYM
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/PersonalBudget.app.dSYM build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget330644622#330644622#0(0"0(0#0#111"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget8599139040#437"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app.dSYM0#
+
+CLd /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget normal i386
+s330644622.101394
+e330644622.401927
+r1
+xLd
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget
+xnormal
+xi386
+lSLF07#2@116"Link /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget330644622#330644622#0(0"0(0#0#0"8601277824#990"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -F/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -filelist /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/Objects-normal/i386/PersonalBudget.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PersonalBudget0#
+
+CProcessInfoPlistFile /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/Info.plist PersonalBudget-Info.plist
+s330644619.906611
+e330644619.950292
+r1
+xProcessInfoPlistFile
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/Info.plist
+xPersonalBudget-Info.plist
+lSLF07#2@33"Process PersonalBudget-Info.plist330644619#330644619#0(0"0(0#0#75"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/PersonalBudget-Info.plist18577812325728368#533"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PersonalBudget-Info.plist -genpkginfo /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app/Info.plist0#
+
+CProcessPCH /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch.gch PersonalBudget_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330644620.439479
+e330644621.841562
+r1
+xProcessPCH
+x/var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch.gch
+xPersonalBudget_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile PersonalBudget_Prefix.pch330644620#330644621#0(0"0(0#0#75"/Users/jrareas/Desenvolvimento/mac/PersonalBudget/PersonalBudget_Prefix.pch8603552192#2049"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-generated-files.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-own-target-headers.hmap -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-all-target-headers.hmap -iquote /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/PersonalBudget-project-headers.hmap -F/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/include -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources/i386 -I/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/PersonalBudget.build/Debug-iphonesimulator/PersonalBudget.build/DerivedSources -c /Users/jrareas/Desenvolvimento/mac/PersonalBudget/PersonalBudget_Prefix.pch -o /var/folders/tn/tnfJg6YOHgKpDzIf9mwWzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PersonalBudget_Prefix-crnvwjbnfqxvtmblugfoshkxxwbj/PersonalBudget_Prefix.pch.gch0#
+
+CTouch /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app
+s330644622.456485
+e330644622.506192
+r1
+xTouch
+x/Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app
+lSLF07#2@102"Touch /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app330644622#330644622#0(0"0(0#0#0"8599891712#307"    cd /Users/jrareas/Desenvolvimento/mac/PersonalBudget    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jrareas/Desenvolvimento/mac/PersonalBudget/build/Debug-iphonesimulator/PersonalBudget.app0#
+
